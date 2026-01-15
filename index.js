@@ -14,6 +14,14 @@ function  decrement(){
     }
 }
 
+
+function resetAll(){
+    count =0;
+    entries = [];
+    countEl.textContent =0;
+    saveEl.textContent= "Previous entries: ";
+}
+
 function save() {
    entries.push(count);
     count = 0;
