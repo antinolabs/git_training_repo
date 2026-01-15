@@ -25,6 +25,16 @@ h2 {
     margin-bottom: 20px;
 }
 
+input {
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+}
+
 button {
     border: 1px solid black;
     padding-top: 10px;
@@ -44,7 +54,19 @@ button {
     background: #1C7947;
 }
 
+#reset-btn {
+    background: #D32F2F;
+}
+
 #save-el {
     font-weight: bold;
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+#save-el li {
+    padding: 5px;
+    margin: 5px 0;
 }
 
