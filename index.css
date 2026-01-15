@@ -50,3 +50,8 @@ button {
 #save-el {
     font-weight: bold;
 }
+
+
+#decrement-btn {
+    background: #f54409;
+}
