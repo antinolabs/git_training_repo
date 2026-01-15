@@ -48,3 +48,15 @@ button {
     font-weight: bold;
 }
 
+#max-btn{
+    background: #db212b;
+    margin-left: 17px;
+}
+#min-btn{
+    background: #791c4c;
+    margin-left: 20px;
+}
+.align-divs{
+    display: flex;
+    margin-left: 30%;
+}
