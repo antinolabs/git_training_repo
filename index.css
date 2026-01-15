@@ -48,3 +48,12 @@ button {
     font-weight: bold;
 }
 
+#reset-btn {
+    background: #d9534f; 
+    margin-top: 5px;
+}
+#total-el {
+    font-weight: bold;
+    color: #2C2891;
+    margin-top: 10px;
+}
