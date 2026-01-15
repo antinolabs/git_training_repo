@@ -40,6 +40,10 @@ button {
     background: #2C2891;
 }
 
+#decrement-btn {
+    background: #d91f1f;
+}
+
 #save-btn {
     background: #1C7947;
 }
