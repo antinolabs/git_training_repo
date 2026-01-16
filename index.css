@@ -48,3 +48,8 @@ button {
     font-weight: bold;
 }
 
+#reset-btn {
+    background: #e74141;   /* red */
+    color: white;
+}
+
