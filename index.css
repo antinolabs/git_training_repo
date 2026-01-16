@@ -47,4 +47,6 @@ button {
 #save-el {
     font-weight: bold;
 }
-
+ #decrement-btn {
+    background: #B22222;
+ }
