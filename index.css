@@ -46,6 +46,9 @@ button {
 #save-btn {
     background: #1C7947;
 }
+#alertBtn{
+    background: purple;
+}
 
 #save-el {
     font-weight: bold;

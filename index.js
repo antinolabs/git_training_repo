@@ -17,3 +17,10 @@ function save() {
     countEl.textContent = 0
     count = 0
 }
+
+const button = document.getElementById("alertBtn");
+
+button.addEventListener("click", () => {
+  alert("Hello User! Hope You're Doing Well...");
+});
+

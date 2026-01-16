@@ -1,5 +1,5 @@
-## About Repo
-
-This repo is created for Git training purpose in Antino Labs.
-
-Happy Coding!
+#
+Changed color of the button
+Added 2 new button
+Alert and Decrement button
+Alert button shows message after clicking it.
