@@ -48,3 +48,9 @@ button {
     font-weight: bold;
 }
 
+/* this is the decrement button's css which i have added */
+
+#decrement-btn {
+    background: #D67D3E; /* Orange-ish color */
+}
+
