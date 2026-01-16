@@ -1,13 +1,28 @@
-# cMLr3asK
+# Row Counter App
 
-## About Scrimba
+A simple and interactive Row Counter application designed to help keep track of counts, such as knitting or crocheting rows. This project is built using vanilla HTML, CSS, and JavaScript.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- **Increment Counter**: Increase the count by 1 with a click.
+- **Decrement Counter**: Decrease the count by 1. Includes a safety check to prevent negative numbers.
+- **Save Entries**: Log the current count to a "Previous entries" list and reset the counter to 0 for a fresh start.
+- **Dynamic UI**: Updates the display instantly upon interaction.
+
+## Technologies Used
+
+- **HTML5**: For structure and layout.
+- **CSS3**: For styling (includes `normalize.css` for cross-browser consistency).
+- **JavaScript**: For logic and DOM manipulation.
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open the `index.html` file in any modern web browser.
+3. Start counting!
+
+## About Repo
+
+This repo is created for Git training purpose in Antino Labs.
 
 Happy Coding!
