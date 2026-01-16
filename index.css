@@ -43,8 +43,19 @@ button {
 #save-btn {
     background: #1C7947;
 }
+#shwEntry-btn{
+    background: #18f6f2;
+}
 
 #save-el {
     font-weight: bold;
 }
 
+
+#decrement-btn {
+    background: #f54409;
+}
+
+#reset-btn {
+    background: #f023f0;
+}
