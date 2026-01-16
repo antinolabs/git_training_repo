@@ -1,7 +1,9 @@
-## About Repo
+## Dark Mode Feature
 
-This repo is created for Git training purpose in Antino Labs.
+Added a dark mode toggle button to switch between light and dark themes.
+The selected theme persists after page refresh.
 
-Happy Coding!
-
-Thankyou
+### How to test
+1. Open index.html
+2. Click the Dark Mode button
+3. Refresh the page to verify persistence
