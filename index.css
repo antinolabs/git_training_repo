@@ -48,3 +48,32 @@ button {
     font-weight: bold;
 }
 
+#goal-input{
+    border: none;
+    text-align: center;
+    background-color: turquoise;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+input::placeholder {
+  color:white;
+}
+input:focus {
+  outline: none;
+  border: none;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
