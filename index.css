@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: white;
+   background: yellow;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
@@ -36,12 +36,18 @@ button {
     border-radius: 5px;
 }
 
+#decrement-btn {
+   background: red;
+}
 #increment-btn {
     background: #2C2891;
 }
 
 #save-btn {
     background: #1C7947;
+}
+#alertBtn{
+    background: purple;
 }
 
 #save-el {
