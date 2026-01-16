@@ -19,7 +19,8 @@ A **RESET button** has been added to the Row Counter application. This new featu
 - **Reset Button**: Clears the current count and resets the previous entries list
 - **Button Location**: Positioned below the SAVE button on the UI
 - **Button Color**: Red/Orange (#C73E1D) to distinguish it from other actions
-- **JavaScript Function**: eset() - Resets the counter to 0, clears the count display, and resets the previous entries text
+- **JavaScript Function**: 
+eset() - Resets the counter to 0, clears the count display, and resets the previous entries text
 
 #### How to Test
 1. Open index.html in your browser
@@ -36,3 +37,4 @@ A **RESET button** has been added to the Row Counter application. This new featu
 - index.css: Added styling for #reset-btn (red/orange background)
 
 ---
+Thankyou
