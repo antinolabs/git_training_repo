@@ -7,9 +7,23 @@ function increment() {
     countEl.textContent = count
 }
 
+function decrement() {
+    if (count > 0) {
+        count -= 1
+        countEl.textContent = count
+    }
+}
+
 function save() {
     let countStr = count + " - "
     saveEl.textContent += countStr
-    countEl.textContent = 0
     count = 0
+    countEl.textContent = 0
 }
+
+function resetCounter() {
+    count = 0
+    countEl.textContent = 0
+    saveEl.textContent = "Previous entries: "
+}
+

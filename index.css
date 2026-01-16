@@ -48,3 +48,10 @@ button {
     font-weight: bold;
 }
 
+#decrement-btn {
+    background: #B02A37;
+}
+
+#reset-btn {
+    background: #6C757D;
+}
