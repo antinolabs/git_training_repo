@@ -47,4 +47,8 @@ button {
 #save-el {
     font-weight: bold;
 }
+#reset-btn {
+    background: #e74141;  
+    color: white;
+}
 
