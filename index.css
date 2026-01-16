@@ -47,4 +47,12 @@ button {
 #save-el {
     font-weight: bold;
 }
+#sum-el {
+    margin-top: 12px;
+    padding: 10px;
+    background-color: #e9f5ff;
+    border-left: 4px solid #007bff;
+    font-weight: 600;
+    color: #0056b3;
+}
 
