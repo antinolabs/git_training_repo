@@ -1,4 +1,4 @@
-body {
+﻿body {
     background-image: url("yarn.jpeg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -44,7 +44,10 @@ button {
     background: #1C7947;
 }
 
+#reset-btn {
+    background: #C73E1D;
+}
+
 #save-el {
     font-weight: bold;
 }
-
