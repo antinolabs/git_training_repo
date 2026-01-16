@@ -1,7 +1,10 @@
-## About Repo
+## ✨ New Feature: Reset Button
 
-This repo is created for Git training purpose in Antino Labs.
+### What was added?
+A reset button was added to clear the counter value and the previously saved entries.
 
-Happy Coding!
-
-Thankyou
+### How to test?
+1. Click INCREMENT a few times
+2. Click SAVE
+3. Click RESET
+4. The counter resets to 0 and the history is cleared
