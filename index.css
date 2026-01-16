@@ -44,7 +44,10 @@ button {
     background: #1C7947;
 }
 
+#reset-btn {
+    background: #DC3545;
+}
+
 #save-el {
     font-weight: bold;
 }
-
