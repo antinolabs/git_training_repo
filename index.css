@@ -48,3 +48,12 @@ button {
     font-weight: bold;
 }
 
+#save-btn:hover{
+    background-color: rgb(120, 253, 120);
+    cursor:pointer;
+}
+#increment-btn:hover{
+    background-color: rgb(111, 209, 248);
+    cursor:pointer;
+}
+
