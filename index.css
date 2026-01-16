@@ -12,6 +12,7 @@ body {
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
+    padding: 20px;
 }
 
 h1 {
@@ -34,6 +35,7 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 #increment-btn {
@@ -48,3 +50,31 @@ button {
     font-weight: bold;
 }
 
+/* ===== Dark Mode Styles ===== */
+
+body.dark {
+    background-image: none;
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+body.dark .container {
+    background: #1e1e1e;
+    border-color: #444;
+}
+
+body.dark button {
+    border-color: #666;
+}
+
+body.dark #increment-btn {
+    background: #3f3bbf;
+}
+
+body.dark #save-btn {
+    background: #2a9d6f;
+}
+
+#themeToggle {
+    background: #333;
+}
