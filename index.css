@@ -1,3 +1,4 @@
+
 body {
     background-image: url("yarn.jpeg");
     background-size: cover;
@@ -44,7 +45,14 @@ button {
     background: #1C7947;
 }
 
+#decrement-btn {
+    background: #912828f7;
+}
+
 #save-el {
     font-weight: bold;
 }
 
+#error {
+color: red;
+}
