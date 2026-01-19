@@ -1,7 +1,8 @@
 ## About Repo
 
-This repo is created for Git training purpose in Antino Labs.
+Added the decrement button and changed its color.
+Added validation to display an error message when the decrement action is performed more than 10 times.
 
-Happy Coding!
 
-Thankyou
+
+
