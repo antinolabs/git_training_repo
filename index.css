@@ -48,3 +48,55 @@ button {
     font-weight: bold;
 }
 
+
+/* Profile Card Component */
+.profile-card {
+  width: 220px;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+  font-family: sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 40px auto;
+}
+
+.profile-avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background-color: #4f46e5;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 16px;
+}
+
+.profile-name {
+  margin: 0 0 4px;
+  font-size: 18px;
+  color: #111;
+}
+
+.profile-role {
+  margin: 0 0 16px;
+  font-size: 14px;
+  color: #666;
+}
+
+.profile-btn {
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.profile-btn:hover {
+  background-color: #4338ca;
+}
