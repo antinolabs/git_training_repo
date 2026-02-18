@@ -38,13 +38,33 @@ button {
 
 #increment-btn {
     background: #2C2891;
+     cursor: pointer;
 }
 
 #save-btn {
     background: #1C7947;
 }
+#save-btn:hover {
+    background: #145A32;   
+    cursor: pointer;
+}
 
 #save-el {
     font-weight: bold;
+}
+#reset-btn {
+    background-color: #c0392b;   
+    color: white;
+    border: none;
+    padding: 12px 28px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#reset-btn:hover {
+    background-color: #a93226;   
 }
 
