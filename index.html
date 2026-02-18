@@ -12,6 +12,12 @@
         <button id="increment-btn" onclick="increment()">INCREMENT</button>
         <button id="save-btn" onclick="save()">SAVE</button>
         <p id="save-el">Previous entries: </p>
+
+        <!-- New Email Validation Feature -->
+        <input type="email" id="email" placeholder="Enter your email">
+        <p id="error" style="color:red; display:none;">Invalid email address</p>
+        <button onclick="validateEmail()">Submit Email</button>
+
     </div>
     <script src="index.js">
         nnerText
