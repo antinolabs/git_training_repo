@@ -13,3 +13,9 @@ function save() {
     countEl.textContent = 0
     count = 0
 }
+
+function Decrement(){
+    count -= 1;
+    countEl.textContent = count;
+}
+
