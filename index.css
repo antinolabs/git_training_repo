@@ -48,3 +48,8 @@ button {
     font-weight: bold;
 }
 
+#counterBtn {
+    color: black;
+    background-color: aquamarine;
+}
+

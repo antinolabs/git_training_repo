@@ -2,6 +2,14 @@ let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
 let count = 0
 
+let cntt = 0;
+
+document.getElementById("counterBtn").addEventListener("click", () => {
+  cntt++;
+  document.getElementById("count").innerText = cntt;
+});
+
+
 function increment() {
     count += 1
     countEl.textContent = count
