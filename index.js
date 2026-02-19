@@ -13,3 +13,13 @@ function save() {
     countEl.textContent = 0
     count = 0
 }
+function validateEmail() {
+    const email = document.getElementById("email").value;
+    const error = document.getElementById("error");
+
+    if (!email) {
+        error.textContent = "Email is required";
+    } else {
+        error.textContent = "Submitted successfully!";
+    }
+}
